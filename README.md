@@ -21,8 +21,9 @@
   - [Utilities](#utilities)
   - [Integrations](#integrations)
   - [Dev Tools](#dev-tools)
+    - [Source Code Editing](#source-code-editing)
+      - [Visual Studio Code](#visual-studio-code)
   - [Scaffold](#scaffold)
-  - [Runtime](#runtime)
 
 
 
@@ -66,6 +67,14 @@
 ## Integrations
 
 ## Dev Tools
+
+### Source Code Editing
+
+*Text editor plugins*
+
+#### Visual Studio Code
+
+ - [Svelte for VS Code](https://github.com/UnwrittenFun/svelte-vscode) - Provides syntax highlighting and rich intellisense for VS Code.
 
 ## Scaffold
 

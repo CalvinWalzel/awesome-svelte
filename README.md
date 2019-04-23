@@ -19,6 +19,8 @@
   - [Frameworks](#frameworks)
   - [UI Utilities](#ui-utilities)
   - [Utilities](#utilities)
+  - [Integrations](#integrations)
+  - [Dev Tools](#dev-tools)
   - [Scaffold](#scaffold)
   - [Runtime](#runtime)
 
@@ -60,6 +62,10 @@
 ## UI Utilities
 
 ## Utilities
+
+## Integrations
+
+## Dev Tools
 
 ## Scaffold
 

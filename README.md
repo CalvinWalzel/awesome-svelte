@@ -33,6 +33,7 @@
 
 - [Offical Website](https://svelte.dev/)
   - [Tutorial](https://svelte.dev/tutorial)
+  - [Template](https://github.com/sveltejs/template)
   - [API Docs](https://svelte.dev/docs)
   - [Examples](https://svelte.dev/examples)
   - [REPL](https://svelte.dev/repl)

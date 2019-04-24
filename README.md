@@ -75,6 +75,7 @@
 *Utilities for building / compiling / bundling / loading assets*
 
 - [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Officially maintained rollup plugin.
+- [svelte-loader](https://github.com/sveltejs/svelte-loader) - Officially maintained webpacker loader.
 
 ## Integrations
 

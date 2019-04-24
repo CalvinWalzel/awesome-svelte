@@ -63,6 +63,9 @@
 
 ## Frameworks
 
+- [Sapper](https://sapper.svelte.technology/) - PWA framework similar to Nuxt.js to Vue and Next.js and Gatsby to React.
+- [Svelte Native](https://github.com/halfnelson/svelte-native) - Svelte in a NativeScript application
+
 ## UI Utilities
 
 ## Utilities

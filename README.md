@@ -64,6 +64,12 @@
 
 ## Utilities
 
+### Code Style
+
+*Improve readability of code*
+
+- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - Linting plugin for eslint & Svelte 3.
+
 ## Integrations
 
 ## Dev Tools

@@ -70,6 +70,12 @@
 
 - [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - Linting plugin for eslint & Svelte 3.
 
+### Asset Management
+
+*Utilities for building / compiling / bundling / loading assets*
+
+- [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Officially maintained rollup plugin.
+
 ## Integrations
 
 ## Dev Tools

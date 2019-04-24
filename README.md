@@ -69,14 +69,14 @@
 
 *Improve readability of code*
 
-- [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - Linting plugin for eslint & Svelte 3.
+- ![v3] [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - Linting plugin for eslint & Svelte 3.
 
 ### Asset Management
 
 *Utilities for building / compiling / bundling / loading assets*
 
-- [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Officially maintained rollup plugin.
-- [svelte-loader](https://github.com/sveltejs/svelte-loader) - Officially maintained webpacker loader.
+- ![v3] [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Officially maintained rollup plugin.
+- ![v3] [svelte-loader](https://github.com/sveltejs/svelte-loader) - Officially maintained webpacker loader.
 
 ## Integrations
 
@@ -88,11 +88,13 @@
 
 #### Visual Studio Code
 
- - [Svelte for VS Code](https://github.com/UnwrittenFun/svelte-vscode) - Provides syntax highlighting and rich intellisense for VS Code.
+ - ![v3] [Svelte for VS Code](https://github.com/UnwrittenFun/svelte-vscode) - Provides syntax highlighting and rich intellisense for VS Code.
 
 ## Scaffold
 
-
+[v2]: https://img.shields.io/badge/-v2-yellow.svg "Version 2"
+[v3]: https://img.shields.io/badge/-v3-brightgreen.svg "Version 3"
+[js]: https://img.shields.io/badge/-js-lightgrey.svg "Vanilla Javascript"
 
 <br/>
 <br/>

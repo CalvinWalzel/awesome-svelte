@@ -20,7 +20,7 @@ If you consider your project finished, and it does not need any contributions, c
 
 #### Apps/Websites
 
-Apps/Websites gives the opportunity to showcase the awesome things we can build with vuejs.
+Apps/Websites gives the opportunity to showcase the awesome things we can build with Svelte.
 You should put your app/website in this category if the following conditions are true:
 - The website is available without errors or ssl certificate problems, and load in a reasonable amount of time.
 - The website is using Svelte intensively. (Please provide proof in the PR.)

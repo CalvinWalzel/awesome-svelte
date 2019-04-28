@@ -58,6 +58,7 @@
 ## UI Components
 
 - ![v3] [svelte-image-encoder](https://github.com/saabi/svelte-image-encoder) - A component to show, edit and compress pictures before upload to a server.
+- ![v3] [svelte-table](https://github.com/dasDaniel/svelte-table) - A svelte-3 table implementation that allows sorting and filtering.
 
 ## UI Layout
 

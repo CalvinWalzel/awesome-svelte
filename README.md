@@ -94,6 +94,7 @@
 #### Visual Studio Code
 
  - ![v3] [Svelte for VS Code](https://github.com/UnwrittenFun/svelte-vscode) - Provides syntax highlighting and rich intellisense for VS Code.
+- ![v3] [Svelte VS Code Snippets](https://github.com/fivethree-team/vscode-svelte-snippets) - Visual Studio Code Extension that adds Svelte 3 code snippets to your favorite IDE.
 
 ## Scaffold
 

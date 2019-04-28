@@ -12,6 +12,7 @@
 *Based on [Awesome Vue.js](https://github.com/vuejs/awesome-vue)*
 
 - [Resources](#resources)
+  - [Examples](#examples)
 - [Projects Using Svelte](#projects-using-svelte)
 - [Components & Libraries](#components--libraries)
   - [UI Components](#ui-components)
@@ -42,6 +43,10 @@
 - [Discord](https://discord.gg/yy75DKs)
 - [GitHub Repo](https://github.com/sveltejs/svelte)
 - [Release Notes](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
+
+## Examples
+
+- ![v3] [svelte-gun-example](https://github.com/ak5/svelte-gun-example) - This is an example using svelte 3 with the gun database.
 
 
 

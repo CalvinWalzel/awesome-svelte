@@ -93,10 +93,14 @@
 
 #### Visual Studio Code
 
- - ![v3] [Svelte for VS Code](https://github.com/UnwrittenFun/svelte-vscode) - Provides syntax highlighting and rich intellisense for VS Code.
+- ![v3] [Svelte for VS Code](https://github.com/UnwrittenFun/svelte-vscode) - Provides syntax highlighting and rich intellisense for VS Code.
 - ![v3] [Svelte VS Code Snippets](https://github.com/fivethree-team/vscode-svelte-snippets) - Visual Studio Code Extension that adds Svelte 3 code snippets to your favorite IDE.
 
 ## Scaffold
+
+*Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator*
+
+- ![v3] [Asp.NETCore Svelte (TypeScript) SPA Starter](https://github.com/Kiho/aspnetcore-svelte-starter) - Uses ASP.NET Core Web API, Svelte 3, Webpack 4 & Bootstrap 4.
 
 [v2]: https://img.shields.io/badge/-v2-yellow.svg "Version 2"
 [v3]: https://img.shields.io/badge/-v3-brightgreen.svg "Version 3"

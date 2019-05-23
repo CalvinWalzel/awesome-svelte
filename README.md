@@ -89,6 +89,9 @@
 - ![v3] [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Officially maintained rollup plugin.
 - ![v3] [svelte-loader](https://github.com/sveltejs/svelte-loader) - Officially maintained webpacker loader.
 
+### Helpers
+- ![js] [svelte-array-helper](https://github.com/dasmikko/svelte-array-helper) - A dead simple helper to modifying arrays, and keep code clean
+
 ## Integrations
 
 ## Dev Tools

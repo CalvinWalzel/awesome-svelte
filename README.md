@@ -53,6 +53,7 @@
 # Projects Using Svelte
 
 ## Open Source
+- [Sapper HackerNews Clone](https://github.com/sveltejs/hn.svelte.dev#readme) - A Hacker News clone built with Svelte and Sapper.
 
 ## Apps/Websites
 

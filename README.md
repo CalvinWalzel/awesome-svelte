@@ -107,6 +107,7 @@
 *Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator*
 
 - ![v3] [Asp.NETCore Svelte (TypeScript) SPA Starter](https://github.com/Kiho/aspnetcore-svelte-starter) - Uses ASP.NET Core Web API, Svelte 3, Webpack 4 & Bootstrap 4.
+- ![v3] [svelte-component-template](https://github.com/YogliB/svelte-component-template) - https://github.com/YogliB/svelte-component-template
 
 [v2]: https://img.shields.io/badge/-v2-yellow.svg "Version 2"
 [v3]: https://img.shields.io/badge/-v3-brightgreen.svg "Version 3"

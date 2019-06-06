@@ -47,7 +47,7 @@
 ## Examples
 
 - ![v3] [svelte-gun-example](https://github.com/ak5/svelte-gun-example) - This is an example using svelte 3 with the gun database.
-
+- ![v3] [svelte-sapper-bulma-crud](https://github.com/danielschmitz/svelte-sapper-bulma-crud) - A Svelte+Sapper+Bulma crud, width demo and ready to deploy on now.sh servers.
 
 
 # Projects Using Svelte

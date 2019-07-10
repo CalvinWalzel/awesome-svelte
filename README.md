@@ -54,6 +54,7 @@
 
 ## Open Source
 - [Sapper HackerNews Clone](https://github.com/sveltejs/hn.svelte.dev#readme) - A Hacker News clone built with Svelte and Sapper.
+- [Random Bookmark From Folder](https://github.com/PikadudeNo1/RandomBookmark) - A Firefox/Chrome extension for opening random bookmarks.
 
 ## Apps/Websites
 

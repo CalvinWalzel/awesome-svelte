@@ -84,6 +84,9 @@
 
 ## Utilities
 
+- ![v3] [svelte-writable-derived](https://github.com/PikadudeNo1/svelte-writable-derived) - Two-way data-transforming stores.
+- ![v3] [svelte-webext-storage-adapter](https://github.com/PikadudeNo1/svelte-webext-storage-adapter) - Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
+
 ### Code Style
 
 *Improve readability of code*

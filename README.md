@@ -23,6 +23,7 @@
   - [Utilities](#utilities)
   - [Integrations](#integrations)
   - [Dev Tools](#dev-tools)
+    - [Helpers](#helpers)
     - [Source Code Editing](#source-code-editing)
       - [Visual Studio Code](#visual-studio-code)
   - [Scaffold](#scaffold)

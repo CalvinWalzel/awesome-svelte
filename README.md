@@ -107,6 +107,10 @@
 
 ## Dev Tools
 
+### Helpers
+
+- [svelte-debugger](https://npm.im/svelte-debugger) - A _JSON_ `<Debugger>` component for _Svelte apps_.
+
 ### Source Code Editing
 
 *Text editor plugins*

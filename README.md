@@ -63,6 +63,10 @@
 
 # Components & Libraries
 
+## UI Libraries
+
+- ![v3] [Svelma](https://github.com/c0bra/svelma) - [Bulma](https://bulma.io) components for Svelte.
+
 ## UI Components
 
 - ![v3] [svelte-image-encoder](https://github.com/saabi/svelte-image-encoder) - A component to show, edit and compress pictures before upload to a server.

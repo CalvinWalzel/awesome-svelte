@@ -114,7 +114,7 @@
 
 ### Source Code Editing
 
-*Text editor plugins*
+- ![v3] [vim-svelte](https://github.com/burner/vim-svelte) - Syntax highlighting for (neo)vim.
 
 #### Visual Studio Code
 

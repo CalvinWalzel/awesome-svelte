@@ -26,6 +26,7 @@
     - [Helpers](#helpers)
     - [Source Code Editing](#source-code-editing)
       - [Visual Studio Code](#visual-studio-code)
+  - [Routing](#routing)
   - [Scaffold](#scaffold)
 
 
@@ -120,6 +121,10 @@
 
 - ![v3] [Svelte for VS Code](https://github.com/UnwrittenFun/svelte-vscode) - Provides syntax highlighting and rich intellisense for VS Code.
 - ![v3] [Svelte VS Code Snippets](https://github.com/fivethree-team/vscode-svelte-snippets) - Visual Studio Code Extension that adds Svelte 3 code snippets to your favorite IDE.
+
+## Routing
+
+- ![v3] [svelte-easyroute)(https://github.com/lyohaplotinka/svelte-easyroute) - supports history and hash mode, navigation guards, base path
 
 ## Scaffold
 

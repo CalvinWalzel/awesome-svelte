@@ -106,6 +106,8 @@
 
 ## Integrations
 
+- [svelte/integrations](https://github.com/sveltejs/integrations) - A curated list of ways to integrate Svelte into your project.
+
 ## Dev Tools
 
 ### Helpers

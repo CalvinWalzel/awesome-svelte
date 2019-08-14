@@ -68,6 +68,7 @@
 - ![v3] [svelte-image-encoder](https://github.com/saabi/svelte-image-encoder) - A component to show, edit and compress pictures before upload to a server.
 - ![v3] [svelte-table](https://github.com/dasDaniel/svelte-table) - A svelte-3 table implementation that allows sorting and filtering.
 - ![v3] [svelte-easy-crop](https://github.com/ValentinH/svelte-easy-crop) - A svelte-3 component to crop images with easy interactions.
+- [v3] [Svelte Toolbox](https://github.com/svelte-toolbox/svelte-toolbox) - A UI component library for Svelte implementing Google's Material Design specification
 
 ## UI Layout
 

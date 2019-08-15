@@ -69,6 +69,7 @@
 - ![v3] [svelte-table](https://github.com/dasDaniel/svelte-table) - A svelte-3 table implementation that allows sorting and filtering.
 - ![v3] [svelte-easy-crop](https://github.com/ValentinH/svelte-easy-crop) - A svelte-3 component to crop images with easy interactions.
 - ![v3] [svelte-click-outside](https://github.com/joeattardi/svelte-click-outside) - A svelte-3 wrapper component to listen for clicks outside of an element.
+- ![v3] [svelte-tabs](https://github.com/joeattardi/svelte-tabs) - A svelte-3 tab panel component.
 
 ## UI Layout
 

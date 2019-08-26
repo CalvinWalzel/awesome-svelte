@@ -82,6 +82,7 @@
 - ![v3] [Svelte Routing](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
 - ![v3] [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3 (Leverages hash-based routing).
 - ![v3] [svero](https://github.com/kazzkiq/svero) - A simple router for Svelte 3.
+- ![v3] [svelte-navaid](https://github.com/jacwright/svelte-navaid) - A declarative Svelte router based on [navaid](https://github.com/lukeed/navaid), keeping things small. Includes an optional hash-based version of navaid.
 
 ## Utilities
 

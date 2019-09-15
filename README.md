@@ -87,6 +87,7 @@
 
 - ![v3] [svelte-writable-derived](https://github.com/PikadudeNo1/svelte-writable-derived) - Two-way data-transforming stores.
 - ![v3] [svelte-webext-storage-adapter](https://github.com/PikadudeNo1/svelte-webext-storage-adapter) - Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
+- ![v3] [svelte-realtime-store](https://github.com/matrx-transformation/matrx/tree/master/packages/svelte-realtime-store) - Browser-side stores and server-side middleware for building realtime Svelte apps.
 
 ### Code Style
 

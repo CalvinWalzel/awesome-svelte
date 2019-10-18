@@ -56,6 +56,7 @@
 
 ## Open Source
 - [Sapper HackerNews Clone](https://github.com/sveltejs/hn.svelte.dev#readme) - A Hacker News clone built with Svelte and Sapper.
+- [Sapper ecommerce](https://github.com/itswadesh/sapper-ecommerce#readme) - A real ecommerce built using Svelte & Sapper.
 
 ## Apps/Websites
 

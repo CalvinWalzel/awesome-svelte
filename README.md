@@ -100,6 +100,7 @@
 
 - ![v3] [rollup-plugin-svelte](https://github.com/rollup/rollup-plugin-svelte) - Officially maintained rollup plugin.
 - ![v3] [svelte-loader](https://github.com/sveltejs/svelte-loader) - Officially maintained webpacker loader.
+- ![v3] [parcel-plugin-svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) - Parcel.js support for Svelte. 
 
 ### Helpers
 - ![js] [svelte-array-helper](https://github.com/dasmikko/svelte-array-helper) - A dead simple helper to modifying arrays, and keep code clean
@@ -128,7 +129,8 @@
 - ![v3] [Asp.NETCore Svelte (TypeScript) SPA Starter](https://github.com/Kiho/aspnetcore-svelte-starter) - Uses ASP.NET Core Web API, Svelte 3, Webpack 4 & Bootstrap 4.
 - ![v3] [svelte-webpack-seed](https://github.com/sam-blackfly/svelte-webpack-seed) - This is a seed project configured with webpack and babel for JavaScript transpilation and SASS preprocessing.
 - ![v3] [Webpack SPA template](https://github.com/theartkod/webpack_svelte) - Webpack template for complex building SPA using Svelte.
-- ![v3] [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A template for building shareable Svelte 3 components.
+- ![v3] [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A template for building shareable Svelte 3 components. 
+- ![v3] [svelte-parcel-template](https://github.com/alex-parra/svelte-template-parcel) - A template for Svelte apps with Parcel.js. 
 
 [v2]: https://img.shields.io/badge/-v2-yellow.svg "Version 2"
 [v3]: https://img.shields.io/badge/-v3-brightgreen.svg "Version 3"

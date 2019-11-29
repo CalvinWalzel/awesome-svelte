@@ -58,8 +58,8 @@
 - [Sapper HackerNews Clone](https://github.com/sveltejs/hn.svelte.dev#readme) - A Hacker News clone built with Svelte and Sapper.
 
 ## Apps/Websites
-
-
+- [Sapper HackerNews Clone](https://github.com/sveltejs/hn.svelte.dev#readme) - A Hacker News clone built with Svelte and Sapper.
+- [Nomie](https://nomie.app) - A private mood & life tracker built with Svelte [repo](https://github.com/open-nomie/nomie) 
 
 # Components & Libraries
 

@@ -57,6 +57,11 @@
 ## Open Source
 - [Sapper HackerNews Clone](https://github.com/sveltejs/hn.svelte.dev#readme) - A Hacker News clone built with Svelte and Sapper.
 
+## Closed Source
+
+- [Jolojo](https://www.jolojo.com/) API-first 'headless' CMS written in Go(Golang) and Node.js, with fully decoupled Svelte frontend. (May be open source in the future)
+
+
 ## Apps/Websites
 
 

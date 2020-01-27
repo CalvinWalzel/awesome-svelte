@@ -56,7 +56,7 @@
 
 ## Talks
 
-- [Rethinking Reactivity](https://www.youtube.com/watch?v=PXOE7oZyaBA) by Rich Harris
+- [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao) by Rich Harris
 - [The Return of 'Write Less, Do More'](https://www.youtube.com/watch?v=BzX4aTRPzno) by Rich Harris
 - [Simplify Web App Development with Svelte](https://www.youtube.com/watch?v=PXOE7oZyaBA) by Mark Volkmann
 

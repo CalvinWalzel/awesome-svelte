@@ -13,6 +13,9 @@
 
 - [Resources](#resources)
   - [Examples](#examples)
+  - [Books](#books)
+  - [Articles](#articles)
+  - [Talks](#talks)
 - [Projects Using Svelte](#projects-using-svelte)
 - [Components & Libraries](#components--libraries)
   - [UI Components](#ui-components)
@@ -28,10 +31,6 @@
       - [Visual Studio Code](#visual-studio-code)
   - [Scaffold](#scaffold)
 
-
-
-
-
 # Resources
 
 - [Offical Website](https://svelte.dev/)
@@ -45,6 +44,21 @@
 - [Discord](https://discord.gg/yy75DKs)
 - [GitHub Repo](https://github.com/sveltejs/svelte)
 - [Release Notes](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
+
+## Books
+
+- [Svelte and Sapper in Action](https://www.manning.com/books/svelte-and-sapper-in-action)
+- [The Svelte Handbook](https://flaviocopes.com/page/ebooks/)
+
+## Articles
+
+- [Web Development Simplified with Svelte](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte)
+
+## Talks
+
+- [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao) by Rich Harris
+- [The Return of 'Write Less, Do More'](https://www.youtube.com/watch?v=BzX4aTRPzno) by Rich Harris
+- [Simplify Web App Development with Svelte](https://www.youtube.com/watch?v=PXOE7oZyaBA) by Mark Volkmann
 
 ## Examples
 

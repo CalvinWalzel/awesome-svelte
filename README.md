@@ -58,7 +58,7 @@
 - [Sapper HackerNews Clone](https://github.com/sveltejs/hn.svelte.dev#readme) - A Hacker News clone built with Svelte and Sapper.
 
 ## Apps/Websites
-
+- [Emojinfo](https://emojinfo.now.sh) - Emoji finder with complete info access based on Svelte and Emojibase. The code is available on [Github](https://github.com/jmlweb/emojinfo-web).
 
 
 # Components & Libraries

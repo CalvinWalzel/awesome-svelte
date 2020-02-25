@@ -129,6 +129,7 @@
 - ![v3] [svelte-webpack-seed](https://github.com/sam-blackfly/svelte-webpack-seed) - This is a seed project configured with webpack and babel for JavaScript transpilation and SASS preprocessing.
 - ![v3] [Webpack SPA template](https://github.com/theartkod/webpack_svelte) - Webpack template for complex building SPA using Svelte.
 - ![v3] [svelte-component-template](https://github.com/YogliB/svelte-component-template) - A template for building shareable Svelte 3 components.
+- ![v3] [nye/svelte-electron-better-sqlite3-starter](https://github.com/nye/svelte-electron-better-sqlite3-starter) - An starter to build Electron apps with Svelte3 and Better SQLite3.
 
 [v2]: https://img.shields.io/badge/-v2-yellow.svg "Version 2"
 [v3]: https://img.shields.io/badge/-v3-brightgreen.svg "Version 3"
